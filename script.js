@@ -72,10 +72,10 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const socialLinksData = {
-        youtube: 'https://www.youtube.com/@hykaika',
-        instagram: 'https://www.instagram.com/hykaika',
-        tiktok: 'https://www.tiktok.com/@hykaika',
-        twitch: 'https://www.twitch.tv/hykaika',
+        youtube: 'https://youtube.com/@hykaika',
+        instagram: 'https://instagram.com/hykaika',
+        tiktok: 'https://tiktok.com/@hykaika',
+        twitch: 'https://twitch.tv/hykaika',
         github: 'https://github.com/hykaika',
         twitter: 'https://twitter.com/Teamhykaika',
         discord: 'https://discord.gg/D2YM5wSPQ3'
